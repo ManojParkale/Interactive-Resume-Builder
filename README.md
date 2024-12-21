@@ -1,5 +1,5 @@
 <h2 align="center">
-Snake-Game <br/>
+Interactive-Resume-Builder - V2.0 <br/>
 </h2>
 <div align="center">
   <img alt="Demo" src="./resume-builder-img.png" />
