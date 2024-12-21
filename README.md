@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio features some of my github projects as well as my resume and technical skills.<br/>
+A simple and user-friendly resume builder that allows you to create professional resumes with ease. Built using modern web technologies, this project provides customizable templates, a clean interface, and export options to PDF. Perfect for developers, students, and professionals looking to quickly craft a standout resume. Open source and available on GitHub for anyone to contribute or personalize.<br/>
 
 This project was built using these technologies.
 
