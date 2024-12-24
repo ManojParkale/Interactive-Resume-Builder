@@ -5,7 +5,7 @@ import { ResumeDocument } from './ResumeDocument';
 function ResumeDownload({ resumeData }) {
   return (
     <div style={{ textAlign: 'center', padding: '20px' }}>
-      <h2 style={{ fontSize: '24px', fontWeight: 'bold', color: '#003366' }}>Download Your Resume</h2>
+      <h2 style={{ fontSize: '24px', fontWeight: 'bold', color: '#003366' }}>Download Resume</h2>
       <p style={{ fontSize: '16px', color: '#555' }}>Click the button below to download your professionally formatted resume as a PDF.</p>
       <PDFDownloadLink
         document={<ResumeDocument data={resumeData} />}
