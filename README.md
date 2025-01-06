@@ -13,8 +13,8 @@ Interactive-Resume-Builder - V2.0 <br/>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-css.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/Snake-Game?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/ManojParkale/Snake-Game?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/Interactive-Resume-Builder?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/ManojParkale/Interactive-Resume-Builder?color=red&logo=github&style=for-the-badge)
 
 </center>
 
